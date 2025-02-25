@@ -1,0 +1,1001 @@
+Date,Région,Produit,Canal de Vente,Quantité Vendue,Chiffre d'Affaires
+2023-08-31,Sud,Produit B,En ligne,193,4707.25
+2024-04-22,Ouest,Produit A,En ligne,52,2109.18
+2023-11-15,Ouest,Produit B,En ligne,138,4015.74
+2024-02-17,Ouest,Produit A,En ligne,42,347.5
+2024-02-21,Ouest,Produit B,En ligne,96,4562.91
+2023-10-01,Nord,Produit A,En ligne,15,1135.6
+2023-11-08,Nord,Produit B,En ligne,177,1183.71
+2024-03-29,Nord,Produit A,Magasin,165,4434.18
+2024-02-17,Sud,Produit B,Magasin,65,1771.79
+2023-12-30,Sud,Produit B,Magasin,63,765.58
+2023-11-21,Nord,Produit C,En ligne,136,2789.68
+2023-09-12,Ouest,Produit A,En ligne,21,4585.27
+2024-01-22,Est,Produit B,En ligne,193,672.94
+2024-01-08,Sud,Produit C,Magasin,185,1084.74
+2023-12-13,Sud,Produit A,Magasin,143,2211.58
+2024-01-18,Est,Produit A,Magasin,48,1097.05
+2024-03-13,Nord,Produit B,En ligne,31,1822.32
+2023-11-26,Ouest,Produit B,En ligne,133,3278.11
+2023-10-19,Ouest,Produit C,En ligne,148,1240.22
+2024-05-18,Sud,Produit B,En ligne,190,1080.2
+2023-08-21,Sud,Produit C,Magasin,120,3698.42
+2023-07-02,Ouest,Produit B,Magasin,105,789.31
+2023-12-13,Sud,Produit C,Magasin,18,1341.47
+2023-12-22,Ouest,Produit C,En ligne,21,1443.25
+2024-05-27,Est,Produit C,En ligne,200,4485.89
+2024-01-12,Nord,Produit B,Magasin,78,770.45
+2024-05-17,Nord,Produit A,En ligne,44,2002.17
+2023-11-14,Est,Produit C,En ligne,94,3999.95
+2024-05-25,Est,Produit B,Magasin,111,4889.22
+2023-09-20,Est,Produit A,Magasin,38,832.52
+2023-07-03,Est,Produit B,Magasin,81,3202.48
+2023-12-14,Ouest,Produit B,En ligne,83,1067.19
+2023-09-14,Sud,Produit A,Magasin,133,1138.26
+2024-03-06,Ouest,Produit A,En ligne,121,248.45
+2023-10-03,Ouest,Produit B,En ligne,10,4707.19
+2024-03-05,Sud,Produit B,Magasin,128,210.68
+2023-09-16,Est,Produit A,En ligne,74,4085.02
+2024-02-17,Sud,Produit B,En ligne,21,487.13
+2023-10-17,Sud,Produit B,Magasin,96,4495.82
+2023-06-09,Est,Produit A,En ligne,123,295.87
+2024-03-30,Est,Produit B,En ligne,70,2631.91
+2023-10-29,Sud,Produit B,Magasin,15,2849.38
+2023-06-13,Est,Produit A,En ligne,2,4248.68
+2023-12-07,Nord,Produit A,Magasin,176,3471.86
+2023-11-25,Sud,Produit B,En ligne,107,172.66
+2023-07-25,Ouest,Produit B,En ligne,133,4242.99
+2024-05-22,Est,Produit C,En ligne,24,1365.45
+2023-10-06,Sud,Produit A,En ligne,58,745.5
+2024-03-11,Nord,Produit B,Magasin,118,2404.84
+2023-06-06,Nord,Produit A,Magasin,43,4145.82
+2023-09-28,Sud,Produit B,En ligne,154,2682.47
+2024-06-03,Nord,Produit A,Magasin,45,887.44
+2023-07-11,Ouest,Produit A,Magasin,200,2465.49
+2023-08-13,Sud,Produit A,Magasin,122,1353.43
+2024-05-24,Ouest,Produit C,En ligne,79,4322.76
+2024-03-02,Nord,Produit B,Magasin,137,4399.66
+2023-10-04,Est,Produit B,Magasin,16,4385.17
+2024-03-20,Nord,Produit A,Magasin,129,1237.89
+2024-04-08,Ouest,Produit B,Magasin,133,1943.51
+2024-04-25,Nord,Produit B,En ligne,163,333.47
+2024-02-14,Ouest,Produit A,Magasin,105,3827.39
+2024-02-03,Nord,Produit B,Magasin,101,4167.37
+2024-03-21,Sud,Produit B,En ligne,99,2328.63
+2023-08-16,Ouest,Produit B,Magasin,200,1070.02
+2023-09-04,Nord,Produit B,Magasin,21,3650.88
+2023-12-13,Sud,Produit B,En ligne,136,2631.59
+2023-08-21,Ouest,Produit B,Magasin,181,4337.23
+2024-05-16,Sud,Produit A,Magasin,17,1976.52
+2024-01-25,Est,Produit C,Magasin,109,3318.51
+2023-08-21,Nord,Produit C,En ligne,194,3832.08
+2023-07-17,Nord,Produit A,En ligne,159,1356.3
+2024-05-23,Ouest,Produit A,En ligne,55,4204.89
+2023-07-15,Ouest,Produit C,En ligne,102,2756.36
+2023-06-26,Nord,Produit B,Magasin,51,2360.19
+2023-08-19,Ouest,Produit C,Magasin,1,3025.12
+2024-03-30,Nord,Produit B,En ligne,53,4836.48
+2024-05-16,Sud,Produit B,En ligne,156,2084.84
+2024-01-13,Ouest,Produit C,Magasin,117,1241.65
+2024-02-11,Nord,Produit C,En ligne,136,3453.79
+2023-08-27,Nord,Produit B,En ligne,65,802.35
+2023-08-03,Sud,Produit B,En ligne,197,4799.13
+2023-09-24,Nord,Produit B,En ligne,183,1410.48
+2023-10-13,Nord,Produit B,En ligne,13,2545.88
+2024-02-08,Ouest,Produit B,En ligne,39,4378.61
+2024-03-11,Ouest,Produit C,En ligne,121,124.95
+2023-11-29,Ouest,Produit A,Magasin,163,1224.26
+2023-08-22,Ouest,Produit B,En ligne,138,4702.37
+2023-11-28,Est,Produit C,Magasin,162,720.31
+2023-07-15,Sud,Produit C,Magasin,30,812.18
+2024-05-11,Sud,Produit B,Magasin,6,3564.18
+2023-07-30,Nord,Produit C,Magasin,187,3050.06
+2024-06-02,Sud,Produit C,En ligne,136,3736.04
+2023-10-13,Est,Produit C,En ligne,83,200.71
+2023-06-21,Sud,Produit B,En ligne,126,2106.29
+2023-11-26,Nord,Produit C,Magasin,153,3962.03
+2024-05-29,Sud,Produit B,En ligne,174,4657.74
+2024-03-17,Est,Produit B,Magasin,106,3387.93
+2024-02-06,Sud,Produit C,Magasin,69,2064.7
+2023-07-29,Sud,Produit A,En ligne,163,4363.58
+2023-12-17,Ouest,Produit A,Magasin,109,2181.51
+2023-06-13,Est,Produit C,Magasin,12,423.21
+2023-10-31,Nord,Produit B,En ligne,64,347.57
+2023-10-10,Est,Produit C,Magasin,10,3123.14
+2023-08-30,Ouest,Produit A,En ligne,9,2913.31
+2023-06-10,Nord,Produit B,Magasin,76,242.55
+2023-09-07,Est,Produit A,Magasin,103,3974.49
+2023-12-29,Nord,Produit A,En ligne,47,4781.58
+2023-10-28,Nord,Produit A,En ligne,177,392.97
+2024-04-08,Sud,Produit C,En ligne,89,1013.78
+2024-03-16,Ouest,Produit A,En ligne,77,3309.89
+2023-08-21,Est,Produit A,Magasin,42,1154.19
+2024-05-18,Sud,Produit B,Magasin,112,3786.18
+2023-09-20,Est,Produit C,En ligne,30,2569.77
+2023-10-11,Nord,Produit B,En ligne,138,2369.12
+2024-04-27,Ouest,Produit B,Magasin,141,2094.39
+2023-12-17,Est,Produit A,Magasin,34,4941.48
+2024-05-15,Ouest,Produit A,En ligne,21,1294.38
+2023-08-18,Ouest,Produit A,Magasin,186,4878.92
+2024-04-27,Ouest,Produit B,En ligne,168,4704.75
+2023-07-03,Est,Produit A,Magasin,125,4632.86
+2023-08-07,Nord,Produit B,Magasin,60,1723.59
+2023-11-15,Ouest,Produit C,En ligne,90,3135.44
+2023-10-06,Nord,Produit C,En ligne,47,3093.74
+2024-05-28,Sud,Produit A,En ligne,30,2261.74
+2023-11-02,Sud,Produit B,En ligne,178,4859.44
+2024-03-02,Sud,Produit A,En ligne,190,1650.44
+2024-01-11,Sud,Produit A,Magasin,91,1853.62
+2024-05-14,Sud,Produit B,Magasin,165,1596.96
+2023-09-03,Est,Produit C,Magasin,67,3200.46
+2024-02-05,Ouest,Produit C,Magasin,131,3146.82
+2024-04-23,Sud,Produit A,En ligne,106,547.47
+2024-04-02,Est,Produit B,En ligne,111,1385.28
+2023-07-01,Sud,Produit B,Magasin,126,612.6
+2023-08-20,Nord,Produit C,Magasin,99,2600.52
+2024-01-14,Nord,Produit B,En ligne,185,4795.41
+2023-09-10,Nord,Produit B,En ligne,108,1944.89
+2023-09-07,Ouest,Produit C,Magasin,200,2646.26
+2024-04-07,Nord,Produit C,En ligne,1,651.07
+2023-10-04,Est,Produit B,En ligne,78,1854.26
+2023-12-27,Est,Produit B,Magasin,180,3974.56
+2023-08-08,Sud,Produit A,Magasin,184,1674.77
+2023-07-05,Ouest,Produit B,En ligne,70,4143.82
+2024-04-06,Nord,Produit B,En ligne,187,3506.37
+2023-06-28,Nord,Produit C,Magasin,161,883.44
+2023-06-11,Sud,Produit B,Magasin,182,1467.92
+2023-12-05,Ouest,Produit B,En ligne,62,3791.48
+2023-07-24,Ouest,Produit B,En ligne,98,4924.08
+2024-02-15,Est,Produit C,Magasin,197,822.03
+2024-04-15,Nord,Produit A,Magasin,65,2116.71
+2024-01-28,Est,Produit B,Magasin,59,246.56
+2024-01-21,Est,Produit A,En ligne,50,4556.39
+2023-08-10,Nord,Produit B,En ligne,54,3699.24
+2023-09-26,Nord,Produit A,En ligne,42,3658.52
+2023-11-06,Nord,Produit B,Magasin,117,3178.05
+2023-11-04,Nord,Produit B,En ligne,159,4441.47
+2024-04-05,Ouest,Produit A,En ligne,183,4407.86
+2023-10-10,Sud,Produit C,En ligne,97,2511.65
+2023-06-28,Est,Produit A,En ligne,96,3856.23
+2024-04-21,Nord,Produit A,En ligne,194,4503.46
+2023-10-05,Nord,Produit B,Magasin,185,4465.86
+2024-01-26,Est,Produit B,En ligne,73,3743.9
+2023-09-27,Nord,Produit C,Magasin,145,3362.91
+2024-04-19,Nord,Produit C,Magasin,19,1352.8
+2024-04-04,Est,Produit C,En ligne,142,1745.31
+2023-12-08,Est,Produit C,Magasin,67,4497.33
+2023-06-25,Nord,Produit A,En ligne,155,240.48
+2024-04-27,Ouest,Produit A,En ligne,88,2597.23
+2023-07-30,Ouest,Produit A,En ligne,168,4335.84
+2024-04-03,Sud,Produit C,En ligne,8,2278.67
+2023-11-30,Ouest,Produit A,En ligne,196,1583.99
+2024-01-02,Est,Produit B,En ligne,181,3916.33
+2024-06-05,Nord,Produit B,Magasin,76,3072.25
+2023-10-09,Sud,Produit A,En ligne,51,4411.67
+2023-11-28,Ouest,Produit C,Magasin,188,3156.52
+2023-07-25,Ouest,Produit B,Magasin,16,519.31
+2023-07-11,Est,Produit B,En ligne,62,654.36
+2024-04-21,Nord,Produit B,Magasin,60,1033.79
+2023-10-25,Ouest,Produit C,En ligne,102,4260.14
+2024-03-05,Nord,Produit B,Magasin,95,4704.92
+2024-02-13,Est,Produit B,Magasin,48,2774.44
+2024-01-05,Nord,Produit C,En ligne,14,3973.2
+2023-07-14,Est,Produit A,En ligne,32,594.62
+2023-11-07,Sud,Produit B,En ligne,107,3577.42
+2023-12-25,Est,Produit A,En ligne,190,2791.09
+2024-05-29,Ouest,Produit A,Magasin,146,2723.56
+2024-03-28,Sud,Produit A,En ligne,25,2038.9
+2023-09-30,Nord,Produit C,Magasin,33,2877.37
+2023-09-07,Est,Produit B,En ligne,130,2563.34
+2023-10-26,Sud,Produit A,En ligne,117,3472.51
+2023-10-31,Nord,Produit C,En ligne,65,926.57
+2023-06-12,Est,Produit A,Magasin,136,1809.95
+2024-03-11,Nord,Produit B,En ligne,151,2484.99
+2023-11-19,Est,Produit C,Magasin,67,703.76
+2023-11-12,Est,Produit A,En ligne,98,320.83
+2024-02-04,Ouest,Produit B,En ligne,139,1120.85
+2024-04-21,Sud,Produit B,Magasin,137,228.83
+2024-04-02,Ouest,Produit B,Magasin,15,3776.11
+2023-09-05,Sud,Produit C,En ligne,20,2925.84
+2023-07-25,Est,Produit A,Magasin,7,3228.12
+2023-08-24,Nord,Produit C,En ligne,127,4148.49
+2023-10-04,Sud,Produit C,Magasin,97,3647.98
+2023-07-29,Est,Produit A,Magasin,22,4996.4
+2024-01-21,Est,Produit B,En ligne,64,1071.05
+2023-10-16,Sud,Produit A,En ligne,124,4002.35
+2023-11-15,Ouest,Produit C,En ligne,99,1329.49
+2023-11-17,Est,Produit C,Magasin,198,1688.53
+2023-07-14,Ouest,Produit A,En ligne,120,1926.03
+2023-06-28,Sud,Produit A,Magasin,113,1114.2
+2023-12-27,Ouest,Produit C,Magasin,28,771.0
+2024-02-02,Nord,Produit B,En ligne,66,2289.36
+2023-11-25,Ouest,Produit A,Magasin,135,3270.61
+2023-09-03,Nord,Produit C,Magasin,142,252.18
+2023-08-28,Ouest,Produit B,Magasin,124,977.73
+2023-07-02,Ouest,Produit B,En ligne,194,3799.71
+2024-05-19,Ouest,Produit A,En ligne,200,819.06
+2024-05-04,Sud,Produit A,En ligne,84,2252.17
+2023-06-27,Sud,Produit A,Magasin,90,292.04
+2023-12-13,Sud,Produit B,Magasin,129,1139.74
+2024-02-15,Est,Produit A,Magasin,131,4368.03
+2024-01-23,Est,Produit C,Magasin,26,2466.99
+2024-01-04,Ouest,Produit C,En ligne,27,2527.28
+2023-10-02,Est,Produit A,Magasin,51,2796.85
+2023-08-19,Est,Produit C,En ligne,71,3558.21
+2023-12-22,Nord,Produit A,Magasin,77,3994.31
+2023-09-05,Nord,Produit C,Magasin,159,4768.15
+2024-02-22,Ouest,Produit B,En ligne,47,773.82
+2024-05-29,Nord,Produit B,En ligne,119,622.09
+2023-06-11,Nord,Produit A,Magasin,52,1962.95
+2024-03-12,Est,Produit A,Magasin,195,3021.24
+2024-04-25,Sud,Produit B,Magasin,166,4915.98
+2024-05-12,Est,Produit B,En ligne,127,2212.56
+2023-09-29,Ouest,Produit C,En ligne,142,3477.7
+2023-08-29,Ouest,Produit A,Magasin,19,4342.28
+2024-05-16,Est,Produit A,En ligne,18,1846.7
+2023-10-20,Nord,Produit C,Magasin,194,1474.62
+2023-07-14,Est,Produit B,Magasin,4,1690.94
+2024-04-01,Est,Produit B,Magasin,6,3561.12
+2024-02-08,Est,Produit A,En ligne,76,327.53
+2024-01-27,Sud,Produit B,En ligne,45,759.51
+2024-02-09,Est,Produit C,En ligne,7,1672.15
+2023-08-05,Ouest,Produit C,En ligne,95,4884.24
+2024-05-14,Sud,Produit A,En ligne,187,1015.53
+2023-08-01,Est,Produit B,En ligne,59,2117.39
+2023-07-30,Est,Produit B,En ligne,85,3736.2
+2024-03-21,Nord,Produit B,Magasin,31,1817.35
+2023-11-24,Nord,Produit C,Magasin,58,209.72
+2024-01-05,Ouest,Produit C,Magasin,83,3291.34
+2024-02-25,Est,Produit C,En ligne,164,3843.38
+2024-02-13,Est,Produit A,Magasin,39,240.94
+2024-02-16,Sud,Produit A,En ligne,114,4498.31
+2024-01-11,Sud,Produit A,En ligne,196,3451.19
+2024-05-24,Sud,Produit B,Magasin,99,2826.2
+2024-06-02,Sud,Produit B,Magasin,69,2611.79
+2023-10-25,Sud,Produit C,En ligne,122,3043.03
+2024-04-21,Sud,Produit C,En ligne,65,1784.86
+2024-06-01,Est,Produit A,Magasin,174,756.82
+2024-01-13,Nord,Produit B,Magasin,115,2272.13
+2023-08-10,Sud,Produit A,En ligne,149,4797.47
+2023-10-05,Sud,Produit A,En ligne,160,132.77
+2023-12-31,Ouest,Produit A,En ligne,19,2331.72
+2023-11-22,Ouest,Produit B,En ligne,173,4861.32
+2023-07-15,Est,Produit C,Magasin,169,2409.13
+2023-10-07,Est,Produit A,Magasin,53,3325.09
+2024-01-28,Ouest,Produit B,Magasin,42,4260.36
+2023-12-27,Est,Produit B,Magasin,173,3050.67
+2024-01-29,Ouest,Produit B,Magasin,161,4094.93
+2024-01-29,Est,Produit A,Magasin,93,2305.35
+2024-06-03,Sud,Produit C,En ligne,129,3927.97
+2024-04-08,Ouest,Produit B,Magasin,62,2202.59
+2024-03-02,Sud,Produit B,Magasin,172,954.47
+2024-01-03,Est,Produit B,Magasin,9,4060.25
+2024-01-23,Est,Produit A,Magasin,139,4394.62
+2024-06-04,Est,Produit B,En ligne,174,509.21
+2024-06-01,Ouest,Produit A,Magasin,196,3443.52
+2023-10-16,Est,Produit B,En ligne,103,2461.81
+2024-01-31,Ouest,Produit B,Magasin,53,1998.37
+2023-09-27,Ouest,Produit B,En ligne,150,3066.63
+2024-05-02,Ouest,Produit C,Magasin,110,745.94
+2023-12-23,Sud,Produit A,En ligne,42,775.85
+2024-01-07,Est,Produit B,Magasin,115,308.25
+2024-04-16,Ouest,Produit A,En ligne,130,103.56
+2023-12-14,Sud,Produit C,Magasin,103,2615.16
+2024-05-29,Est,Produit B,En ligne,189,2360.15
+2024-04-17,Sud,Produit C,Magasin,36,2599.38
+2023-11-03,Nord,Produit A,En ligne,59,2404.39
+2024-05-18,Ouest,Produit C,Magasin,133,1994.21
+2024-01-13,Nord,Produit A,En ligne,158,3226.79
+2024-05-07,Sud,Produit B,Magasin,73,1878.05
+2023-06-26,Sud,Produit A,Magasin,39,2501.97
+2024-01-16,Sud,Produit C,En ligne,14,4086.29
+2023-07-18,Nord,Produit B,Magasin,161,3032.72
+2024-01-19,Est,Produit A,En ligne,103,4707.33
+2023-07-31,Ouest,Produit A,En ligne,24,4224.62
+2024-05-14,Nord,Produit B,En ligne,131,3904.51
+2024-03-21,Ouest,Produit C,En ligne,140,3773.36
+2024-02-09,Sud,Produit C,En ligne,92,508.67
+2023-09-05,Nord,Produit C,Magasin,138,245.88
+2023-08-25,Est,Produit B,En ligne,177,3247.39
+2023-08-05,Nord,Produit C,En ligne,65,3187.94
+2024-03-28,Sud,Produit C,Magasin,117,3165.6
+2024-02-29,Est,Produit C,En ligne,154,2516.34
+2024-04-27,Sud,Produit C,Magasin,109,2258.4
+2024-01-16,Est,Produit A,En ligne,106,2239.82
+2024-04-19,Sud,Produit A,Magasin,1,4451.09
+2023-12-15,Est,Produit B,En ligne,141,2239.9
+2023-06-17,Sud,Produit C,En ligne,75,1336.31
+2023-10-15,Sud,Produit C,En ligne,175,894.83
+2023-09-21,Sud,Produit A,En ligne,24,3608.49
+2023-12-31,Nord,Produit B,En ligne,84,3098.36
+2024-01-12,Sud,Produit B,Magasin,113,3997.2
+2023-11-24,Ouest,Produit C,En ligne,62,3080.51
+2024-03-02,Ouest,Produit C,Magasin,45,654.58
+2023-07-01,Ouest,Produit C,En ligne,27,2459.96
+2024-05-23,Ouest,Produit B,Magasin,59,3703.91
+2023-11-27,Nord,Produit C,En ligne,164,3820.06
+2023-09-06,Ouest,Produit A,Magasin,87,1605.58
+2023-11-18,Nord,Produit C,En ligne,74,3023.94
+2023-12-01,Ouest,Produit B,Magasin,63,2769.06
+2023-12-12,Nord,Produit A,En ligne,52,4995.47
+2024-03-23,Ouest,Produit A,Magasin,68,2059.02
+2024-03-23,Nord,Produit C,Magasin,49,1930.71
+2024-02-17,Nord,Produit A,En ligne,13,3151.29
+2023-12-31,Ouest,Produit B,Magasin,153,926.98
+2023-07-12,Ouest,Produit A,Magasin,138,771.69
+2023-12-17,Est,Produit B,Magasin,21,4016.75
+2024-05-15,Est,Produit A,Magasin,172,2002.73
+2023-10-25,Nord,Produit B,En ligne,81,1730.59
+2023-12-21,Nord,Produit A,En ligne,162,1560.79
+2023-10-08,Ouest,Produit C,Magasin,61,3140.55
+2024-05-03,Nord,Produit B,En ligne,32,797.49
+2023-11-26,Nord,Produit B,En ligne,113,4729.27
+2024-01-16,Nord,Produit B,En ligne,63,2127.74
+2024-01-11,Nord,Produit A,Magasin,187,2481.17
+2024-03-11,Ouest,Produit B,Magasin,4,533.39
+2023-09-08,Sud,Produit B,Magasin,34,3968.21
+2023-10-31,Ouest,Produit C,En ligne,59,195.91
+2024-01-13,Est,Produit C,En ligne,144,586.68
+2024-05-13,Sud,Produit B,Magasin,194,807.43
+2023-08-20,Sud,Produit C,Magasin,92,480.67
+2024-03-18,Nord,Produit B,En ligne,50,1763.23
+2023-07-26,Ouest,Produit B,En ligne,41,1889.18
+2023-10-02,Sud,Produit C,En ligne,81,4073.47
+2023-08-10,Nord,Produit C,Magasin,6,3649.07
+2023-08-05,Nord,Produit C,En ligne,90,4607.92
+2023-11-04,Sud,Produit A,Magasin,141,4940.75
+2023-07-25,Sud,Produit A,Magasin,9,1016.46
+2023-11-16,Est,Produit C,Magasin,70,3922.55
+2024-01-05,Est,Produit A,Magasin,134,2989.79
+2023-06-16,Ouest,Produit B,En ligne,142,3938.46
+2023-12-24,Ouest,Produit C,Magasin,139,4077.25
+2023-11-07,Ouest,Produit A,En ligne,32,2513.44
+2024-05-26,Est,Produit B,Magasin,155,1149.49
+2024-04-24,Sud,Produit C,En ligne,163,4107.44
+2023-08-19,Est,Produit B,En ligne,118,1527.03
+2023-09-28,Est,Produit B,En ligne,44,4936.38
+2024-03-11,Nord,Produit A,En ligne,50,1824.3
+2023-10-05,Nord,Produit B,En ligne,149,2464.12
+2023-08-30,Ouest,Produit A,Magasin,167,510.8
+2023-12-31,Nord,Produit C,Magasin,93,4333.62
+2023-12-25,Nord,Produit B,Magasin,27,3581.87
+2023-07-13,Sud,Produit C,Magasin,21,3699.99
+2024-04-10,Nord,Produit A,Magasin,44,2511.37
+2023-10-24,Est,Produit B,En ligne,142,1152.97
+2024-03-14,Est,Produit B,En ligne,81,2446.73
+2024-04-02,Est,Produit B,En ligne,36,1661.01
+2024-06-04,Nord,Produit B,En ligne,158,1001.3
+2024-03-27,Est,Produit A,En ligne,135,3269.58
+2023-10-09,Nord,Produit A,Magasin,165,2645.91
+2023-06-19,Nord,Produit B,En ligne,101,4230.16
+2023-08-07,Est,Produit A,En ligne,7,2742.67
+2024-05-08,Ouest,Produit C,Magasin,129,520.36
+2023-11-07,Sud,Produit C,Magasin,77,403.1
+2023-06-17,Nord,Produit B,En ligne,78,2472.94
+2023-11-19,Nord,Produit B,Magasin,31,4175.86
+2023-06-10,Est,Produit B,En ligne,106,261.64
+2023-06-22,Sud,Produit C,En ligne,41,1912.31
+2024-02-27,Nord,Produit B,En ligne,100,1781.15
+2023-11-23,Nord,Produit A,En ligne,142,3085.79
+2023-10-15,Sud,Produit B,Magasin,62,368.0
+2023-10-24,Sud,Produit B,En ligne,108,3648.74
+2024-05-10,Ouest,Produit C,En ligne,160,183.37
+2023-11-04,Nord,Produit A,En ligne,48,1281.02
+2023-10-26,Sud,Produit C,En ligne,90,4470.7
+2023-12-16,Ouest,Produit B,En ligne,88,1157.85
+2024-04-27,Nord,Produit A,En ligne,143,1493.4
+2023-09-29,Est,Produit B,Magasin,188,4023.9
+2023-06-20,Nord,Produit B,Magasin,162,1902.39
+2023-09-25,Nord,Produit A,En ligne,159,4867.95
+2023-12-10,Est,Produit B,Magasin,26,3931.32
+2024-04-13,Est,Produit C,En ligne,5,2043.8
+2024-04-20,Nord,Produit C,En ligne,191,1903.8
+2023-09-30,Ouest,Produit A,En ligne,147,354.53
+2023-09-28,Sud,Produit B,En ligne,151,595.37
+2023-08-15,Est,Produit B,Magasin,172,3374.11
+2024-04-26,Nord,Produit A,Magasin,169,2094.83
+2024-04-10,Nord,Produit B,Magasin,107,4777.26
+2023-07-22,Sud,Produit C,En ligne,194,2162.82
+2024-03-06,Nord,Produit A,En ligne,8,1192.04
+2024-05-04,Sud,Produit B,En ligne,114,3369.7
+2023-07-04,Est,Produit C,Magasin,63,1975.8
+2023-11-07,Sud,Produit A,En ligne,127,558.09
+2024-05-22,Ouest,Produit C,Magasin,95,4448.32
+2023-08-27,Ouest,Produit B,Magasin,76,3741.39
+2024-05-08,Ouest,Produit B,En ligne,142,878.83
+2023-09-16,Ouest,Produit C,En ligne,109,1533.18
+2023-12-18,Est,Produit B,En ligne,157,4268.62
+2023-06-24,Sud,Produit B,Magasin,30,1218.51
+2024-04-22,Ouest,Produit B,En ligne,124,3329.76
+2023-08-19,Nord,Produit B,En ligne,147,1936.41
+2023-08-07,Ouest,Produit B,En ligne,20,4726.18
+2024-01-03,Sud,Produit B,Magasin,193,754.99
+2023-11-27,Sud,Produit C,Magasin,199,4668.87
+2023-08-04,Est,Produit A,En ligne,149,1751.5
+2023-10-15,Sud,Produit B,Magasin,187,3563.06
+2024-03-30,Est,Produit A,Magasin,190,1292.69
+2023-08-11,Sud,Produit B,Magasin,14,463.99
+2024-04-12,Est,Produit B,En ligne,58,4560.54
+2023-12-07,Sud,Produit A,En ligne,47,2425.66
+2023-07-27,Nord,Produit C,Magasin,159,958.41
+2024-06-03,Ouest,Produit B,Magasin,35,4712.33
+2024-01-01,Nord,Produit B,En ligne,5,646.02
+2024-01-14,Ouest,Produit B,Magasin,47,1075.04
+2024-02-07,Ouest,Produit C,Magasin,78,4932.19
+2024-04-06,Est,Produit C,En ligne,38,2022.2
+2024-02-14,Ouest,Produit B,En ligne,65,4962.2
+2023-11-05,Sud,Produit C,En ligne,80,1283.12
+2023-09-25,Nord,Produit C,Magasin,178,2993.45
+2023-10-15,Ouest,Produit C,Magasin,56,4727.93
+2023-08-06,Nord,Produit C,En ligne,166,597.71
+2023-08-19,Sud,Produit A,Magasin,63,866.19
+2024-02-11,Sud,Produit A,Magasin,38,2861.06
+2024-01-08,Sud,Produit A,En ligne,7,3856.47
+2023-09-11,Nord,Produit B,En ligne,1,2878.56
+2023-12-18,Nord,Produit A,Magasin,46,3648.09
+2024-02-19,Est,Produit C,En ligne,98,645.59
+2023-12-19,Est,Produit B,En ligne,151,4266.5
+2023-10-02,Est,Produit C,En ligne,150,3540.42
+2023-07-21,Est,Produit A,En ligne,196,100.86
+2023-11-20,Ouest,Produit C,Magasin,145,4240.32
+2024-02-11,Nord,Produit A,En ligne,41,4264.38
+2024-01-08,Sud,Produit B,Magasin,31,632.62
+2023-10-27,Nord,Produit B,Magasin,135,2942.87
+2024-01-08,Nord,Produit B,Magasin,156,1351.91
+2023-10-08,Nord,Produit B,En ligne,107,3827.84
+2024-04-23,Est,Produit A,En ligne,136,3803.25
+2023-09-06,Ouest,Produit B,En ligne,70,2629.49
+2023-07-30,Est,Produit C,Magasin,110,674.12
+2024-05-18,Sud,Produit A,Magasin,106,4647.9
+2023-10-02,Nord,Produit C,En ligne,49,3224.52
+2023-07-17,Ouest,Produit A,Magasin,118,4746.62
+2024-04-04,Nord,Produit B,En ligne,168,2763.79
+2023-10-27,Sud,Produit A,En ligne,119,1337.99
+2023-12-07,Nord,Produit C,En ligne,93,2968.96
+2023-11-01,Ouest,Produit C,En ligne,76,1102.88
+2024-04-20,Ouest,Produit B,En ligne,140,2496.92
+2023-09-11,Est,Produit C,En ligne,11,4780.32
+2023-08-29,Est,Produit B,Magasin,97,2561.0
+2023-10-08,Nord,Produit A,Magasin,20,3004.23
+2024-04-27,Ouest,Produit C,Magasin,123,2395.16
+2023-08-21,Nord,Produit B,Magasin,110,1291.68
+2023-07-18,Ouest,Produit A,En ligne,56,1932.89
+2024-04-24,Nord,Produit A,Magasin,113,2325.62
+2024-05-26,Est,Produit B,En ligne,141,201.92
+2023-09-16,Sud,Produit C,Magasin,189,2566.45
+2024-03-30,Nord,Produit A,Magasin,175,100.83
+2024-04-04,Est,Produit A,En ligne,70,2444.64
+2024-05-08,Est,Produit A,En ligne,147,2640.62
+2023-11-29,Est,Produit A,En ligne,60,1779.68
+2023-08-09,Est,Produit B,Magasin,123,3266.11
+2024-01-30,Est,Produit A,En ligne,65,1071.55
+2023-10-27,Nord,Produit B,Magasin,120,221.48
+2023-07-18,Est,Produit C,En ligne,120,3061.56
+2024-02-07,Est,Produit A,Magasin,46,1440.13
+2023-12-24,Nord,Produit B,En ligne,196,124.17
+2023-06-07,Ouest,Produit B,En ligne,86,698.56
+2023-09-18,Nord,Produit C,En ligne,116,4609.85
+2023-09-17,Ouest,Produit A,Magasin,91,1272.09
+2023-08-15,Sud,Produit C,En ligne,131,4687.66
+2023-10-15,Nord,Produit A,En ligne,144,1004.77
+2023-12-12,Est,Produit B,Magasin,138,3825.79
+2024-03-20,Ouest,Produit A,Magasin,196,1287.73
+2023-11-28,Nord,Produit B,En ligne,7,1478.23
+2024-01-28,Nord,Produit A,En ligne,81,3509.17
+2023-09-15,Est,Produit B,En ligne,3,344.86
+2023-09-18,Est,Produit C,En ligne,34,2380.02
+2024-04-12,Sud,Produit C,En ligne,128,4956.43
+2024-01-30,Nord,Produit C,En ligne,69,4829.06
+2023-10-18,Ouest,Produit A,Magasin,40,4719.53
+2023-07-25,Ouest,Produit B,Magasin,82,3228.03
+2024-04-04,Nord,Produit A,En ligne,111,3740.11
+2024-05-24,Nord,Produit B,Magasin,196,131.15
+2024-01-14,Est,Produit B,En ligne,139,1328.97
+2024-01-09,Sud,Produit A,Magasin,180,2860.44
+2023-11-19,Ouest,Produit A,En ligne,107,4882.47
+2024-04-22,Sud,Produit B,Magasin,119,1213.51
+2023-11-30,Ouest,Produit B,En ligne,116,3814.72
+2023-08-16,Ouest,Produit C,Magasin,153,2748.41
+2023-08-10,Nord,Produit C,Magasin,108,4953.32
+2023-08-17,Sud,Produit A,Magasin,125,949.11
+2024-02-27,Nord,Produit A,Magasin,153,1194.28
+2023-10-01,Nord,Produit B,En ligne,4,1033.4
+2024-05-23,Sud,Produit A,Magasin,180,2086.61
+2023-08-07,Est,Produit C,En ligne,111,4860.53
+2023-07-11,Sud,Produit A,Magasin,24,3696.46
+2023-09-16,Sud,Produit B,Magasin,3,4824.51
+2024-03-29,Est,Produit A,En ligne,23,1743.82
+2023-10-08,Ouest,Produit C,Magasin,200,316.56
+2024-02-06,Sud,Produit C,En ligne,194,4438.36
+2024-02-25,Ouest,Produit C,En ligne,114,4113.22
+2023-10-29,Nord,Produit C,En ligne,42,1191.59
+2023-06-12,Ouest,Produit C,En ligne,42,808.35
+2023-12-01,Nord,Produit A,En ligne,169,1388.55
+2023-10-25,Est,Produit A,En ligne,37,3613.85
+2024-01-07,Est,Produit C,Magasin,32,300.69
+2024-03-04,Sud,Produit C,En ligne,92,2252.09
+2023-07-10,Sud,Produit C,En ligne,111,4832.3
+2024-01-21,Ouest,Produit A,En ligne,143,525.86
+2024-03-17,Ouest,Produit C,Magasin,194,3398.01
+2023-12-06,Nord,Produit A,En ligne,57,4877.76
+2024-02-28,Est,Produit B,Magasin,22,883.72
+2023-08-16,Nord,Produit B,Magasin,74,4738.19
+2023-10-02,Sud,Produit A,Magasin,131,2723.98
+2024-02-19,Sud,Produit A,Magasin,183,3366.99
+2023-09-26,Sud,Produit C,Magasin,83,3893.31
+2024-01-24,Nord,Produit C,En ligne,111,3266.06
+2024-03-09,Est,Produit B,Magasin,33,632.65
+2023-11-19,Sud,Produit B,En ligne,110,4492.66
+2024-05-08,Est,Produit A,Magasin,51,1673.0
+2024-02-20,Est,Produit B,En ligne,137,2826.42
+2024-05-03,Sud,Produit A,Magasin,69,2308.0
+2023-06-20,Ouest,Produit B,Magasin,41,2517.78
+2023-06-18,Nord,Produit B,En ligne,129,3292.01
+2023-10-23,Est,Produit B,Magasin,101,2149.18
+2023-06-25,Ouest,Produit C,En ligne,18,3164.64
+2023-07-21,Nord,Produit B,Magasin,112,4009.68
+2024-02-07,Est,Produit A,Magasin,3,1317.19
+2023-10-27,Nord,Produit A,Magasin,51,4661.94
+2023-11-24,Nord,Produit A,Magasin,14,2273.03
+2024-05-04,Nord,Produit A,Magasin,173,3768.9
+2023-10-13,Ouest,Produit C,En ligne,79,4428.45
+2023-08-20,Ouest,Produit C,En ligne,45,460.96
+2024-02-26,Nord,Produit C,En ligne,140,3588.46
+2023-07-02,Sud,Produit C,Magasin,185,1989.9
+2023-09-11,Sud,Produit B,Magasin,135,2098.18
+2023-08-27,Ouest,Produit B,En ligne,180,4563.19
+2023-07-16,Est,Produit C,En ligne,159,3849.8
+2024-05-28,Sud,Produit C,Magasin,68,3815.02
+2023-07-22,Nord,Produit B,En ligne,178,950.91
+2023-07-01,Sud,Produit C,Magasin,124,1928.39
+2024-01-29,Est,Produit A,En ligne,181,1292.45
+2023-06-07,Ouest,Produit A,Magasin,38,3588.98
+2024-04-06,Sud,Produit C,En ligne,54,849.79
+2023-08-25,Nord,Produit C,En ligne,78,249.61
+2023-12-22,Ouest,Produit A,En ligne,92,4355.72
+2023-11-26,Sud,Produit C,En ligne,68,3796.09
+2024-05-03,Sud,Produit B,Magasin,20,4001.87
+2023-06-12,Nord,Produit A,Magasin,135,2009.95
+2023-09-03,Ouest,Produit A,En ligne,152,1234.51
+2023-09-07,Sud,Produit B,En ligne,55,1602.43
+2023-12-21,Nord,Produit A,En ligne,21,2921.64
+2024-05-01,Est,Produit B,Magasin,93,1004.96
+2024-02-22,Nord,Produit B,Magasin,54,3516.6
+2023-06-23,Nord,Produit B,Magasin,20,4543.3
+2023-07-13,Est,Produit C,En ligne,44,2543.34
+2023-07-16,Nord,Produit C,Magasin,91,4963.02
+2023-07-08,Ouest,Produit B,En ligne,64,4267.95
+2024-03-17,Ouest,Produit C,En ligne,74,117.63
+2023-07-25,Nord,Produit C,Magasin,190,2059.64
+2023-12-01,Ouest,Produit A,Magasin,82,1615.8
+2023-09-18,Sud,Produit B,Magasin,85,1150.37
+2023-06-22,Nord,Produit B,En ligne,71,2610.42
+2023-08-08,Est,Produit A,En ligne,47,3740.42
+2024-03-22,Ouest,Produit C,Magasin,170,2984.88
+2023-07-19,Ouest,Produit C,En ligne,96,1841.58
+2024-03-06,Est,Produit A,En ligne,113,3903.2
+2024-06-04,Sud,Produit B,En ligne,60,2822.28
+2023-11-09,Nord,Produit A,Magasin,59,3649.87
+2023-07-10,Sud,Produit B,En ligne,146,3858.82
+2024-05-27,Est,Produit A,Magasin,87,2136.71
+2024-05-21,Sud,Produit A,Magasin,115,3586.68
+2023-12-08,Est,Produit C,Magasin,20,1038.39
+2024-05-02,Ouest,Produit C,En ligne,77,1388.37
+2024-05-23,Ouest,Produit A,En ligne,35,4672.92
+2024-01-21,Sud,Produit B,Magasin,174,1452.64
+2024-05-02,Sud,Produit C,Magasin,39,1647.65
+2023-10-26,Nord,Produit B,En ligne,119,4718.47
+2024-05-30,Ouest,Produit B,En ligne,85,1605.83
+2023-07-10,Est,Produit A,Magasin,73,1864.43
+2023-07-08,Sud,Produit C,En ligne,44,1257.1
+2023-08-10,Ouest,Produit C,Magasin,39,3766.46
+2023-10-13,Est,Produit B,Magasin,4,2517.03
+2023-09-13,Nord,Produit B,Magasin,15,4376.5
+2024-05-10,Est,Produit A,En ligne,190,310.95
+2023-07-08,Est,Produit C,Magasin,31,309.71
+2023-09-12,Ouest,Produit B,Magasin,190,3428.02
+2023-12-05,Nord,Produit A,En ligne,181,3206.81
+2023-07-19,Est,Produit B,En ligne,22,4058.71
+2024-04-21,Est,Produit B,En ligne,130,3756.35
+2023-06-26,Nord,Produit A,Magasin,5,1821.49
+2024-04-05,Est,Produit B,Magasin,112,4235.91
+2023-12-10,Est,Produit B,Magasin,32,521.04
+2023-06-13,Ouest,Produit B,Magasin,172,2143.05
+2023-12-31,Est,Produit C,En ligne,62,1780.97
+2023-07-31,Est,Produit A,Magasin,141,3503.68
+2024-05-03,Nord,Produit A,Magasin,12,3827.13
+2023-08-09,Est,Produit A,En ligne,4,4323.77
+2024-05-07,Sud,Produit C,En ligne,55,2810.14
+2024-01-13,Nord,Produit C,En ligne,177,3460.46
+2024-06-01,Est,Produit B,En ligne,120,2998.58
+2023-08-31,Ouest,Produit A,En ligne,94,4476.66
+2024-03-29,Nord,Produit A,Magasin,159,1826.87
+2024-02-10,Nord,Produit C,En ligne,88,696.57
+2023-11-05,Est,Produit C,En ligne,105,4533.14
+2023-08-18,Nord,Produit A,En ligne,37,4985.69
+2023-12-05,Est,Produit A,Magasin,52,1600.63
+2024-01-24,Nord,Produit C,En ligne,20,3005.12
+2023-12-30,Ouest,Produit A,Magasin,43,3529.9
+2023-11-11,Nord,Produit A,Magasin,139,1587.48
+2024-03-10,Ouest,Produit C,En ligne,160,4447.68
+2024-03-03,Nord,Produit B,En ligne,111,606.38
+2024-05-07,Est,Produit B,Magasin,8,4592.24
+2023-11-09,Nord,Produit C,Magasin,79,1158.05
+2024-04-26,Sud,Produit A,Magasin,195,2356.44
+2024-01-01,Est,Produit A,Magasin,189,2286.85
+2023-10-28,Nord,Produit A,En ligne,199,4267.39
+2023-12-10,Nord,Produit B,En ligne,13,2704.48
+2023-12-20,Nord,Produit C,Magasin,157,3246.89
+2024-02-08,Nord,Produit B,En ligne,95,4297.53
+2024-01-02,Ouest,Produit A,En ligne,159,3802.8
+2024-05-13,Est,Produit A,En ligne,85,4311.74
+2023-10-18,Sud,Produit A,En ligne,56,315.8
+2024-04-28,Est,Produit A,En ligne,19,3062.7
+2024-03-02,Est,Produit B,Magasin,12,3203.56
+2024-04-30,Ouest,Produit B,En ligne,102,1553.05
+2024-02-12,Nord,Produit C,Magasin,112,1172.49
+2023-07-14,Nord,Produit B,En ligne,121,3635.49
+2024-02-25,Nord,Produit B,Magasin,57,2453.97
+2023-07-18,Est,Produit C,En ligne,187,4046.64
+2024-01-19,Est,Produit B,En ligne,134,4892.71
+2023-07-15,Est,Produit B,Magasin,96,478.18
+2024-03-21,Nord,Produit A,Magasin,34,2599.75
+2023-12-26,Est,Produit C,Magasin,18,1431.05
+2023-12-03,Sud,Produit C,En ligne,53,253.34
+2023-07-22,Ouest,Produit B,Magasin,10,674.15
+2023-10-28,Nord,Produit C,En ligne,154,552.36
+2023-06-27,Est,Produit A,Magasin,163,526.53
+2024-03-26,Ouest,Produit B,En ligne,138,525.5
+2023-12-20,Nord,Produit C,En ligne,54,1585.6
+2023-09-03,Sud,Produit C,En ligne,3,2726.77
+2024-03-27,Ouest,Produit C,Magasin,104,360.82
+2023-10-22,Ouest,Produit A,En ligne,124,393.71
+2023-12-23,Nord,Produit B,En ligne,184,4785.45
+2024-04-07,Est,Produit C,En ligne,22,3816.27
+2024-03-20,Est,Produit B,Magasin,199,1044.19
+2024-01-11,Est,Produit A,En ligne,90,2927.29
+2024-04-15,Nord,Produit B,En ligne,119,1779.87
+2023-08-27,Ouest,Produit C,En ligne,17,2704.26
+2023-06-11,Ouest,Produit B,Magasin,74,2406.61
+2023-10-29,Sud,Produit C,Magasin,4,670.86
+2023-09-18,Est,Produit B,Magasin,145,2549.32
+2023-12-17,Nord,Produit A,En ligne,73,2574.86
+2023-10-26,Est,Produit C,Magasin,113,4046.8
+2024-03-05,Sud,Produit A,En ligne,49,3913.4
+2024-03-08,Sud,Produit B,En ligne,32,918.58
+2023-10-21,Sud,Produit B,En ligne,71,322.14
+2023-09-04,Est,Produit A,En ligne,109,558.53
+2023-07-27,Ouest,Produit B,Magasin,47,4719.09
+2023-12-08,Est,Produit B,En ligne,75,4412.3
+2024-05-05,Sud,Produit A,Magasin,121,3384.35
+2024-01-08,Est,Produit B,Magasin,149,3389.77
+2024-02-28,Ouest,Produit C,Magasin,162,1090.02
+2024-02-05,Nord,Produit A,En ligne,116,4940.07
+2024-06-04,Ouest,Produit A,En ligne,143,1244.85
+2024-05-28,Ouest,Produit A,En ligne,42,208.64
+2023-09-12,Sud,Produit A,En ligne,153,3186.42
+2024-02-01,Ouest,Produit B,Magasin,24,3512.57
+2024-01-22,Sud,Produit C,Magasin,172,730.05
+2023-10-02,Nord,Produit B,Magasin,125,1832.7
+2024-03-24,Ouest,Produit A,Magasin,135,3965.02
+2023-09-28,Est,Produit C,Magasin,94,1589.49
+2023-10-29,Nord,Produit C,Magasin,130,387.32
+2024-03-25,Est,Produit C,En ligne,103,2054.44
+2023-11-22,Sud,Produit B,En ligne,99,2337.32
+2023-06-24,Ouest,Produit C,En ligne,68,1624.61
+2024-05-22,Sud,Produit C,En ligne,143,2193.63
+2024-03-21,Nord,Produit B,Magasin,188,467.61
+2023-07-13,Sud,Produit C,Magasin,188,896.22
+2023-07-02,Est,Produit B,En ligne,129,975.25
+2023-09-17,Sud,Produit B,Magasin,121,4741.71
+2024-05-19,Est,Produit B,Magasin,68,4700.09
+2023-10-16,Est,Produit C,En ligne,152,2593.39
+2023-07-11,Sud,Produit A,En ligne,167,3155.88
+2024-05-14,Sud,Produit C,En ligne,16,474.12
+2024-05-14,Sud,Produit C,En ligne,153,4627.19
+2023-11-26,Sud,Produit A,Magasin,39,2925.95
+2023-07-23,Nord,Produit B,Magasin,16,2740.38
+2023-09-25,Nord,Produit C,En ligne,88,4935.75
+2024-01-30,Est,Produit C,Magasin,41,836.46
+2024-01-29,Est,Produit C,En ligne,60,710.95
+2023-07-21,Sud,Produit C,Magasin,53,3041.62
+2023-07-29,Nord,Produit B,En ligne,39,4333.29
+2023-09-30,Nord,Produit A,En ligne,9,3116.0
+2023-11-11,Nord,Produit B,Magasin,107,4757.52
+2023-09-06,Sud,Produit B,Magasin,75,2850.21
+2023-09-25,Sud,Produit C,Magasin,170,4109.53
+2023-12-08,Ouest,Produit A,En ligne,4,1783.04
+2023-12-06,Ouest,Produit C,En ligne,18,2995.52
+2023-10-12,Nord,Produit B,Magasin,55,1396.74
+2023-07-15,Est,Produit C,En ligne,110,4968.7
+2024-04-21,Sud,Produit C,En ligne,143,3348.28
+2023-07-06,Nord,Produit A,En ligne,129,1968.69
+2023-09-04,Sud,Produit B,En ligne,176,3510.52
+2023-10-08,Nord,Produit A,Magasin,128,1170.73
+2023-09-12,Sud,Produit A,Magasin,151,4036.46
+2023-10-29,Ouest,Produit C,Magasin,67,2055.71
+2024-02-20,Nord,Produit B,Magasin,198,1319.95
+2023-09-04,Ouest,Produit A,Magasin,52,4110.83
+2024-04-27,Nord,Produit B,En ligne,110,3521.59
+2023-07-08,Ouest,Produit C,En ligne,70,4430.95
+2023-07-14,Ouest,Produit C,En ligne,106,2856.7
+2023-07-26,Ouest,Produit C,En ligne,111,2360.11
+2023-06-28,Sud,Produit B,Magasin,181,4829.56
+2023-09-15,Sud,Produit C,En ligne,149,1846.01
+2024-02-20,Ouest,Produit C,En ligne,104,1922.27
+2024-02-20,Sud,Produit C,En ligne,139,3677.46
+2023-11-15,Ouest,Produit A,En ligne,181,3360.03
+2023-11-14,Nord,Produit C,En ligne,18,2297.6
+2024-01-07,Est,Produit A,Magasin,193,645.32
+2023-06-29,Sud,Produit C,En ligne,168,1218.66
+2023-06-28,Nord,Produit C,Magasin,133,404.18
+2023-11-24,Ouest,Produit B,Magasin,115,4702.52
+2023-09-16,Ouest,Produit A,Magasin,74,608.91
+2023-12-22,Sud,Produit A,En ligne,19,1410.67
+2023-10-21,Est,Produit A,En ligne,86,786.02
+2023-12-15,Ouest,Produit A,Magasin,67,3762.15
+2023-10-11,Ouest,Produit A,Magasin,57,374.7
+2023-09-05,Ouest,Produit B,En ligne,122,2508.45
+2023-10-13,Nord,Produit C,Magasin,79,789.02
+2024-03-19,Est,Produit C,Magasin,120,4047.15
+2024-03-09,Sud,Produit A,En ligne,138,4163.3
+2024-04-08,Ouest,Produit C,En ligne,41,1142.27
+2023-09-15,Est,Produit A,En ligne,102,2047.0
+2024-02-27,Sud,Produit A,Magasin,60,4141.67
+2023-10-01,Est,Produit C,Magasin,30,4845.88
+2023-10-09,Ouest,Produit B,En ligne,31,2362.32
+2023-08-28,Ouest,Produit B,En ligne,31,2574.91
+2023-08-23,Nord,Produit B,Magasin,49,4679.9
+2023-07-23,Sud,Produit C,En ligne,105,2207.45
+2023-12-09,Ouest,Produit A,Magasin,185,3044.41
+2024-02-27,Est,Produit A,En ligne,39,3576.39
+2024-02-09,Sud,Produit C,En ligne,38,1829.36
+2024-05-16,Nord,Produit C,En ligne,185,1586.36
+2024-05-01,Ouest,Produit C,Magasin,28,2691.88
+2023-10-25,Ouest,Produit B,Magasin,114,1626.68
+2023-06-20,Ouest,Produit C,Magasin,17,4985.24
+2024-05-04,Ouest,Produit C,En ligne,199,3782.79
+2023-12-07,Est,Produit A,Magasin,193,140.07
+2024-03-03,Ouest,Produit A,En ligne,4,4051.08
+2023-11-13,Est,Produit C,En ligne,126,1573.86
+2023-09-25,Nord,Produit A,Magasin,98,3416.83
+2024-01-09,Sud,Produit A,Magasin,100,255.82
+2023-12-12,Ouest,Produit C,Magasin,180,4731.51
+2023-11-03,Nord,Produit B,En ligne,16,4382.69
+2023-08-29,Nord,Produit C,En ligne,168,1717.44
+2023-09-12,Est,Produit A,En ligne,87,119.17
+2023-12-23,Ouest,Produit B,Magasin,165,2265.42
+2023-11-18,Nord,Produit C,En ligne,169,2091.49
+2024-03-04,Est,Produit A,Magasin,67,1166.75
+2024-01-18,Est,Produit B,Magasin,127,312.06
+2024-05-03,Est,Produit C,Magasin,27,2540.03
+2023-11-09,Nord,Produit B,Magasin,95,4018.05
+2023-10-10,Ouest,Produit B,Magasin,104,3025.52
+2023-12-22,Sud,Produit A,En ligne,198,2765.14
+2024-03-16,Ouest,Produit B,En ligne,103,4356.29
+2024-04-13,Ouest,Produit C,Magasin,186,4482.54
+2023-12-21,Nord,Produit B,Magasin,132,678.2
+2024-05-07,Est,Produit A,Magasin,77,4013.27
+2024-03-29,Est,Produit A,En ligne,29,2248.07
+2023-12-07,Ouest,Produit B,En ligne,63,1970.61
+2024-02-27,Sud,Produit A,En ligne,15,4864.88
+2023-10-28,Sud,Produit B,En ligne,197,4536.37
+2024-01-23,Ouest,Produit B,Magasin,151,4623.59
+2024-01-23,Nord,Produit A,Magasin,35,3880.07
+2024-04-15,Ouest,Produit C,En ligne,157,725.79
+2023-08-17,Sud,Produit C,Magasin,124,1582.8
+2024-05-26,Est,Produit B,Magasin,2,977.41
+2023-10-17,Ouest,Produit B,Magasin,21,273.68
+2024-06-02,Nord,Produit C,En ligne,30,3157.05
+2024-03-25,Ouest,Produit C,En ligne,191,1699.07
+2023-08-07,Nord,Produit A,En ligne,99,1113.7
+2024-04-09,Est,Produit C,En ligne,153,2649.37
+2024-05-16,Nord,Produit C,Magasin,91,3234.22
+2023-07-30,Est,Produit C,En ligne,7,4988.69
+2023-12-17,Nord,Produit C,Magasin,133,389.08
+2023-12-10,Ouest,Produit A,Magasin,46,196.75
+2024-04-13,Nord,Produit B,Magasin,89,275.78
+2024-06-03,Ouest,Produit B,Magasin,51,2533.22
+2024-02-22,Sud,Produit B,Magasin,125,376.66
+2023-07-04,Est,Produit C,En ligne,67,1687.15
+2023-12-03,Est,Produit B,Magasin,102,1552.05
+2024-02-05,Nord,Produit B,En ligne,143,3909.76
+2024-05-24,Sud,Produit B,Magasin,111,307.62
+2024-03-07,Est,Produit C,Magasin,163,3676.07
+2023-12-10,Est,Produit A,Magasin,105,3495.44
+2024-03-31,Est,Produit B,Magasin,115,2287.0
+2024-03-18,Ouest,Produit C,Magasin,130,2471.04
+2023-08-16,Sud,Produit A,Magasin,107,2774.31
+2024-04-09,Ouest,Produit A,En ligne,19,3906.76
+2024-05-31,Ouest,Produit C,En ligne,104,1123.09
+2023-09-26,Ouest,Produit A,En ligne,53,462.5
+2024-05-11,Nord,Produit C,En ligne,58,2351.73
+2024-01-21,Ouest,Produit C,Magasin,40,2417.24
+2024-01-10,Nord,Produit B,Magasin,96,3431.2
+2024-02-10,Nord,Produit A,Magasin,56,3891.63
+2023-10-21,Est,Produit C,En ligne,108,3736.44
+2023-08-24,Sud,Produit B,En ligne,117,280.99
+2024-05-31,Est,Produit A,En ligne,134,3575.45
+2024-04-26,Sud,Produit A,Magasin,75,3866.87
+2024-05-21,Ouest,Produit A,En ligne,193,3701.15
+2023-07-17,Nord,Produit B,En ligne,75,2566.02
+2024-05-22,Ouest,Produit C,En ligne,31,1278.88
+2024-03-03,Est,Produit B,En ligne,85,2765.56
+2024-06-04,Ouest,Produit B,En ligne,133,747.71
+2024-02-07,Sud,Produit C,En ligne,193,1193.44
+2024-04-11,Est,Produit B,Magasin,189,803.53
+2023-09-19,Est,Produit A,En ligne,96,4470.56
+2024-04-09,Ouest,Produit C,En ligne,52,1636.57
+2023-11-09,Ouest,Produit A,En ligne,132,3751.46
+2023-07-13,Est,Produit B,Magasin,84,3787.19
+2023-08-04,Nord,Produit C,En ligne,143,1562.05
+2023-10-17,Ouest,Produit B,Magasin,10,1903.6
+2023-10-21,Sud,Produit C,En ligne,34,857.01
+2024-04-09,Sud,Produit C,Magasin,182,505.45
+2023-07-06,Ouest,Produit A,Magasin,52,948.12
+2023-11-03,Sud,Produit B,En ligne,190,1003.88
+2024-04-14,Ouest,Produit C,En ligne,127,4034.17
+2023-08-03,Nord,Produit A,En ligne,55,2226.47
+2024-01-28,Nord,Produit B,En ligne,7,4897.97
+2024-01-08,Sud,Produit A,En ligne,166,331.25
+2023-08-09,Ouest,Produit B,Magasin,181,3052.63
+2023-07-28,Nord,Produit B,En ligne,76,4632.96
+2023-07-19,Nord,Produit A,Magasin,161,2073.24
+2023-08-04,Nord,Produit C,En ligne,125,3480.35
+2023-08-07,Nord,Produit C,En ligne,91,1978.97
+2023-12-02,Ouest,Produit B,En ligne,72,3282.98
+2023-09-18,Ouest,Produit B,En ligne,135,1075.66
+2024-04-24,Sud,Produit B,Magasin,10,1300.77
+2024-02-21,Nord,Produit C,Magasin,114,887.47
+2023-09-01,Est,Produit C,Magasin,21,682.16
+2023-07-22,Sud,Produit A,Magasin,138,1906.01
+2023-09-30,Ouest,Produit B,En ligne,39,1837.47
+2023-11-13,Nord,Produit A,Magasin,176,2010.39
+2023-12-06,Est,Produit C,Magasin,66,1951.24
+2024-05-28,Ouest,Produit A,Magasin,70,1401.37
+2023-07-24,Nord,Produit B,Magasin,92,1817.74
+2024-02-19,Nord,Produit B,En ligne,163,4955.09
+2023-10-27,Ouest,Produit B,En ligne,114,4258.62
+2023-11-16,Nord,Produit B,Magasin,83,2488.24
+2023-08-09,Nord,Produit C,Magasin,147,1745.84
+2024-05-24,Sud,Produit A,En ligne,177,1842.31
+2024-04-14,Ouest,Produit B,Magasin,72,4738.04
+2023-10-07,Est,Produit A,En ligne,79,3088.1
+2024-03-06,Nord,Produit C,Magasin,84,1038.74
+2023-08-17,Ouest,Produit C,En ligne,97,3781.34
+2024-05-30,Sud,Produit C,En ligne,10,4926.39
+2024-05-03,Ouest,Produit B,Magasin,177,3524.02
+2024-01-03,Ouest,Produit A,En ligne,4,3611.42
+2023-06-08,Est,Produit C,Magasin,157,4663.41
+2023-11-04,Nord,Produit B,En ligne,106,3707.01
+2023-09-25,Ouest,Produit B,En ligne,64,1371.08
+2023-08-28,Sud,Produit B,Magasin,20,3579.43
+2023-12-30,Est,Produit B,En ligne,3,3092.3
+2024-03-29,Ouest,Produit C,En ligne,77,3872.67
+2023-08-19,Sud,Produit B,Magasin,36,1813.02
+2024-05-03,Nord,Produit A,Magasin,40,2202.07
+2023-11-10,Ouest,Produit B,Magasin,50,1148.04
+2023-06-26,Est,Produit C,En ligne,31,3667.49
+2023-07-29,Sud,Produit A,Magasin,130,2544.48
+2023-12-31,Sud,Produit A,Magasin,137,3257.8
+2024-01-24,Est,Produit A,En ligne,128,3146.26
+2023-11-09,Nord,Produit B,Magasin,34,984.13
+2023-11-07,Sud,Produit B,En ligne,193,4743.19
+2024-01-14,Nord,Produit B,En ligne,185,4767.79
+2023-07-20,Est,Produit C,Magasin,104,2776.39
+2023-11-10,Nord,Produit A,Magasin,110,1879.88
+2024-01-30,Est,Produit A,Magasin,119,2172.06
+2024-02-08,Sud,Produit B,Magasin,122,4481.24
+2023-07-05,Nord,Produit C,Magasin,125,259.75
+2024-05-26,Nord,Produit A,En ligne,133,2586.9
+2023-09-24,Est,Produit A,Magasin,192,4161.23
+2024-05-18,Est,Produit B,Magasin,97,862.65
+2024-04-23,Nord,Produit C,Magasin,47,3390.77
+2023-12-14,Ouest,Produit C,En ligne,68,4678.63
+2024-01-14,Est,Produit A,En ligne,156,1439.03
+2023-09-15,Sud,Produit B,Magasin,79,3737.87
+2023-12-14,Ouest,Produit B,En ligne,22,1766.33
+2024-01-10,Nord,Produit B,En ligne,113,923.12
+2023-08-01,Est,Produit C,En ligne,72,1549.85
+2023-09-03,Sud,Produit B,En ligne,116,3402.61
+2023-12-18,Sud,Produit B,En ligne,145,1420.73
+2024-04-25,Est,Produit A,Magasin,115,1291.65
+2023-10-03,Nord,Produit C,En ligne,179,2327.77
+2023-11-25,Est,Produit C,Magasin,160,469.35
+2023-11-24,Ouest,Produit C,En ligne,91,3978.14
+2023-09-07,Nord,Produit B,Magasin,121,4974.1
+2024-04-08,Est,Produit A,Magasin,146,1771.02
+2023-08-20,Est,Produit A,Magasin,63,3738.12
+2023-06-10,Sud,Produit B,En ligne,104,2002.69
+2024-05-06,Nord,Produit A,En ligne,145,3186.87
+2023-10-29,Nord,Produit B,Magasin,165,817.63
+2023-12-08,Ouest,Produit A,En ligne,143,4926.61
+2024-03-10,Nord,Produit B,En ligne,144,433.63
+2023-06-13,Est,Produit A,En ligne,120,1644.64
+2024-01-31,Nord,Produit A,En ligne,103,4102.92
+2023-08-28,Ouest,Produit A,Magasin,60,589.19
+2023-10-04,Ouest,Produit A,Magasin,125,1903.96
+2024-03-18,Nord,Produit C,Magasin,111,3482.39
+2024-01-26,Nord,Produit A,Magasin,88,2442.59
+2023-07-24,Sud,Produit B,En ligne,90,1457.93
+2024-03-13,Nord,Produit A,En ligne,103,4527.26
+2024-05-12,Ouest,Produit B,Magasin,144,3965.54
+2024-01-09,Sud,Produit C,Magasin,5,399.54
+2024-01-22,Sud,Produit A,En ligne,156,3050.66
+2024-02-03,Est,Produit B,En ligne,54,3334.2
+2024-05-12,Ouest,Produit B,Magasin,188,4739.48
+2023-06-19,Sud,Produit B,En ligne,3,3671.12
+2023-07-22,Ouest,Produit B,Magasin,117,3799.95
+2023-07-07,Ouest,Produit B,En ligne,26,1265.11
+2023-12-27,Est,Produit B,Magasin,147,3555.84
+2023-08-03,Ouest,Produit C,En ligne,22,561.74
+2023-07-04,Ouest,Produit C,En ligne,178,799.32
+2023-12-11,Ouest,Produit A,Magasin,152,992.65
+2024-05-14,Sud,Produit C,Magasin,111,1125.11
+2024-03-15,Ouest,Produit A,Magasin,146,3159.3
+2023-09-27,Sud,Produit C,Magasin,161,2025.93
+2024-01-18,Nord,Produit A,Magasin,40,1239.66
+2023-09-07,Ouest,Produit A,Magasin,25,1716.82
+2023-08-26,Est,Produit C,Magasin,162,3047.54
+2023-08-27,Est,Produit B,En ligne,175,1452.36
+2024-01-28,Est,Produit A,En ligne,165,4137.93
+2023-08-09,Est,Produit B,En ligne,122,2291.47
+2024-01-20,Sud,Produit C,En ligne,93,2599.07
+2024-03-17,Nord,Produit B,Magasin,28,1308.75
+2023-08-22,Est,Produit A,En ligne,100,3175.55
+2023-12-14,Nord,Produit B,Magasin,196,3427.36
+2024-02-14,Ouest,Produit C,En ligne,128,3098.61
+2023-07-27,Sud,Produit C,Magasin,42,2450.25
+2024-01-18,Sud,Produit B,Magasin,33,731.56
+2024-01-26,Nord,Produit A,En ligne,126,375.0
+2023-09-04,Nord,Produit C,Magasin,122,3899.5
+2023-12-29,Sud,Produit C,Magasin,38,4739.95
+2023-09-22,Est,Produit C,Magasin,200,1041.56
+2024-02-29,Sud,Produit A,En ligne,83,2801.7
+2023-09-17,Sud,Produit B,Magasin,56,1636.85
+2024-01-05,Nord,Produit C,Magasin,165,2187.2
+2023-10-07,Ouest,Produit C,Magasin,133,4979.17
+2023-11-06,Sud,Produit A,Magasin,82,420.33
+2023-09-15,Sud,Produit B,Magasin,56,590.92
+2023-07-12,Ouest,Produit B,Magasin,5,1119.93
+2024-02-06,Sud,Produit C,En ligne,22,4567.07
+2024-03-25,Ouest,Produit B,Magasin,3,3480.85
+2024-05-14,Sud,Produit A,En ligne,85,4566.13
+2023-06-24,Sud,Produit A,En ligne,70,1339.57
+2024-03-16,Est,Produit A,En ligne,90,418.7
+2023-10-14,Nord,Produit A,Magasin,79,4226.4
+2023-07-03,Sud,Produit C,Magasin,7,4403.77
+2023-10-01,Ouest,Produit A,Magasin,146,838.12
+2023-06-27,Nord,Produit B,En ligne,145,1872.44
+2023-10-28,Est,Produit B,Magasin,62,1428.7
+2024-01-13,Sud,Produit A,Magasin,147,618.9
+2023-12-24,Nord,Produit C,Magasin,6,316.18
+2023-09-09,Sud,Produit B,En ligne,178,2215.64
+2023-06-06,Est,Produit C,Magasin,105,2716.43
+2023-10-24,Ouest,Produit A,En ligne,133,1205.21
+2023-11-28,Ouest,Produit B,Magasin,128,2391.03
+2023-11-14,Nord,Produit A,Magasin,50,4519.12
+2023-09-21,Ouest,Produit A,En ligne,84,1605.51
+2023-06-28,Ouest,Produit A,Magasin,21,3981.76
+2024-03-31,Nord,Produit C,Magasin,19,1717.26
+2023-09-03,Sud,Produit C,En ligne,164,2898.65
+2023-08-25,Nord,Produit C,Magasin,131,778.73
+2023-06-17,Nord,Produit A,Magasin,7,372.66
+2024-02-07,Sud,Produit B,En ligne,4,1769.92
+2024-05-29,Sud,Produit C,En ligne,183,1626.29
+2023-06-09,Nord,Produit C,Magasin,188,3540.92
+2024-03-09,Ouest,Produit C,En ligne,177,333.35
+2023-07-16,Est,Produit C,En ligne,35,4814.23
+2023-11-28,Nord,Produit C,Magasin,37,3679.31
+2023-11-15,Ouest,Produit B,En ligne,195,2935.33
+2023-07-04,Nord,Produit A,En ligne,18,4335.82
+2023-08-11,Sud,Produit B,En ligne,123,168.01
+2023-11-17,Sud,Produit C,Magasin,178,2229.04
+2024-01-21,Est,Produit C,En ligne,41,2238.55
+2024-05-02,Sud,Produit A,Magasin,180,2360.77
+2024-05-29,Sud,Produit C,Magasin,116,1859.02
+2024-02-11,Ouest,Produit A,En ligne,79,1334.49
+2024-05-04,Sud,Produit B,Magasin,76,4433.97
+2024-04-20,Est,Produit C,En ligne,140,1240.74
+2023-11-24,Nord,Produit C,En ligne,189,2986.32
+2024-05-31,Ouest,Produit A,En ligne,200,1221.91
