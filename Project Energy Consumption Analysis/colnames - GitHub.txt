@@ -1,0 +1,29 @@
+Replacement;Lookup
+LA Code;A
+Government Office Regions and LAU1 Areas;B
+Coal_Industrial & Commercial;C
+Coal_Domestic;D
+Coal_Rail;E
+Coal_Total;F
+Manufactured fuels_Industrial;H
+Manufactured fuels_Domestic;I
+Manufactured fuels_Total;J
+Petroleum products_Industrial & Commercial;L
+Petroleum products_Domestic;M
+Petroleum products_Road transport;N
+Petroleum products_Rail;O
+Petroleum products_Public Sector;P
+Petroleum products_Agriculture;Q
+Petroleum products_Total;R
+Gas_Industrial & Commercial;T
+Gas_Domestic;U
+Gas_Total;V
+Electricity_Industrial & Commercial;X
+Electricity_Domestic;Y
+Electricity_Total;Z
+Bioenergy & wastes_Total;AB
+All fuels_Total;AD
+Consuming Sector_Industry & Commercial;AF
+Consuming Sector_Domestic;AG
+Consuming Sector_Transport;AH
+Year;Iteration

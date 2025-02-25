@@ -1,0 +1,38 @@
+Replacement;Lookup
+Code;A
+Country or region;B
+Local authority;C
+Notes;D
+All fuels: Domestic;E
+All fuels: Transport [note 1];F
+All fuels: Industrial, Commercial and other;G
+All fuels: Total;H
+Coal: Industrial [note 2];I
+Coal: Commercial;J
+Coal: Domestic;K
+Coal: Rail;L
+Coal: Public sector;M
+Coal: Agriculture;N
+Coal: Total [note 2];O
+Manufactured fuels: Industrial [note 3];P
+Manufactured fuels: Domestic [note 3];Q
+Manufactured fuels: Total [note 3];R
+Petroleum: Industrial;S
+Petroleum: Commercial;T
+Petroleum: Domestic;U
+Petroleum: Road transport [note 4];V
+Petroleum: Rail;W
+Petroleum: Public sector;X
+Petroleum: Agriculture;Y
+Petroleum: Total [note 4];Z
+Gas: Domestic;AA
+Gas: Industrial, Commercial and other;AB
+Gas: Total;AC
+Electricity: Domestic;AD
+Electricity: Industrial, Commercial and other;AE
+Electricity: Total;AF
+Bioenergy and wastes: Domestic;AG
+Bioenergy and wastes: Road transport [note 4];AH
+Bioenergy and wastes: Industrial and Commercial;AI
+Bioenergy and wastes: Total [note 4];AJ
+Year;Iteration
