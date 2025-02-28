@@ -1,0 +1,7 @@
+SuperStore, tools: MySQL Workbench, Dataiku, Power BI, Python, SQL
+
+Database: MySQL Workbench, Power BI
+Coding: Python, SQL
+Extract Transform Load (ETL): Dataiku
+Exploratory Data Analysis (EDA): Dataiku
+Dashboard: Power BI
