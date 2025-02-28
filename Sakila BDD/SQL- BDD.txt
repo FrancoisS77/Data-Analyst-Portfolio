@@ -1,1 +1,2 @@
+DB Browser for SQLite
 Sakila BDD
