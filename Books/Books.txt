@@ -1,1 +1,3 @@
-Books / Livre: web scraping
+Books / Livre: Web scraping
+Python: Pandas, BeautifulSoup, Matplotlib, Seaborn
+SQLite
