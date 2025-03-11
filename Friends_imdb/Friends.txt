@@ -1,1 +1,2 @@
 Friends_imdb: web scraping
+Python: Pandas, BeautifulSoup, Seaborn, Matplotlib
