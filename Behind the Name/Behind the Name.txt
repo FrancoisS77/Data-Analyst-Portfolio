@@ -1,1 +1,2 @@
-Behind The Name: web scraping
+Behind The Name: Web scraping
+Python: Pandas, BeautifulSoup, Pandas, Matplotlib
