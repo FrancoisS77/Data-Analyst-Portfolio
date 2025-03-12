@@ -1,1 +1,1 @@
-Python: Pandas, Numpy, Matplotlib, Seaborn, (Openpyxl: if can't read Excel files), ydata-profiling
+Python: Pandas, Numpy, Matplotlib, Seaborn, (Openpyxl: if can't read Excel files), (Pandas) Profiling, IPyWidgets
