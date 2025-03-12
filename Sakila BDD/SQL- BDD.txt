@@ -1,2 +1,2 @@
-DB Browser for SQLite
-Sakila BDD
+MySQL Workbench
+Sakila BDD (DB Browser for SQLite)
