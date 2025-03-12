@@ -20,32 +20,57 @@ Web Scraping, Data Collection & Preparation, Exploratory and Descriptive Analysi
 
 Software and tools used : Jupyter Notebook, Python, BeautifulSoup, Pandas, Matplotlib, Seaborn
 
-# Euro Foot
-
-Préparation de données, analyse exploratoire
-
-Software and tools used : Jupyter Notebook, Python, Pandas, Matplotlib
-
 # Friends
 
 Scraping, Collecte du site https://www.imdb.com/title/tt0108778/episodes/
 
-Software and tools used : Jupyter Notebook, Python, BeautifulSoup
+Software and tools used : Jupyter Notebook, Python, Pandas, BeautifulSoup
+
+# Machine Learning-ML
+
+Machine Learning (ML) : to analyze data, build predictive models, and extract valuable insights to support business decisions.
+
+Software and tools used : Jupyter Notebook, Python, Scikit-learn (or Sklearn), Pandas, Matplotlib, Seaborn, (Pandas) Profiling / Visions, Numpy, Pydantic
 
 # Project Data Analyst-Scientist-Engineer
 
-Préparation de données, analyse exploratoire, analyse descriptive
+Data cleaning and preparation, exploratory data analysis (EDA), and descriptive analytics to uncover insights and trends.
 
-Software and tools used : Jupyter Notebook, Python, Pandas, Matplotlib
+Software and tools used : Jupyter Notebook, Python, Pandas, Matplotlib, Numpy, Matplotlib, Seaborn, (Openpyxl: if can't read Excel files), (Pandas) Profiling, IPyWidgets
+
+# Project Energy Consumption Analysis
+
+KNIME: data preparation, ETL processes, exploratory data analysis, and automation of workflows.
+
+Software and tools used : Knime
+
+# Project Getting Started Guide Knime
+
+KNIME: data preparation, ETL processes, exploratory data analysis, and automation of workflows.
+
+Software and tools used : Knime
+
+# Project Human Greenhouse Gas Emission
+
+KNIME: data preparation, ETL processes, exploratory data analysis, and automation of workflows.
+
+Software and tools used : Knime
 
 # Projet Titanic
 
-Préparation de données, analyse exploratoire
+Data preparation, exploratory analysis.
 
-Software and tools used : Jupyter Notebook, Python, Pandas, numpy
+Software and tools used : Jupyter Notebook, Python, Pandas, Numpy, Matplotlib, Seaborn, (Pandas) Profiling, Dataprep (EDA)
+
+# Sakila BDD
+
+MySQL Workbench: data modeling, querying, and database management to analyze and extract insights from structured data.
+
+Software and tools used : MySQL Workbench, SQL
 
 # Visualisation 
 
-Résumé de différente visualisation
+Summary of various data visualizations.
 
-Outils utilisés : PowerBI, Power Query, Tableau
+Software and tools used : Tableau, Power BI
+Tableau: Completes visualisation on Tableau website --> https://public.tableau.com/app/profile/francois.sok/vizzes
