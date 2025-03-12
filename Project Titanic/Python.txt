@@ -1,1 +1,1 @@
-Python
+Python: Pandas, Numpy, Matplotlib, Seaborn, (Pandas) Profiling, Dataprep (EDA)
